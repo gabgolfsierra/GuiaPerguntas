@@ -1,4 +1,4 @@
-# GuiaPerguntas_Project
+# GuiaPerguntas
 
 Guia Perguntas é um programa onde os usuários podem publicar perguntas, ver perguntas, fornecer respostas e ver respostas. 
 Este programa foi desenvolvido para ajudar os usuários a obter respostas para suas perguntas de maneira rápida e eficiente. 
